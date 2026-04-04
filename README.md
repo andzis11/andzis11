@@ -1,7 +1,13 @@
 - 👋 Hi, I’m andzis
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg"     alt="AWS"     width="68" height="68" style="margin: 8px;" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg"    alt="C++"    width="68" height="68" style="margin: 8px;" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#"     width="68" height="68" style="margin: 8px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg"   alt="Java"   width="68" height="68" style="margin: 8px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="68" height="68" style="margin: 8px;" />
+</p>
 
 
 <!---
