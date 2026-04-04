@@ -1,5 +1,5 @@
-- 👋 Hi, I’m andzis
-  ██▓▒­░⡷⠂ANDZISONE⠐⢾░▒▓██
+
+                                                                                ██▓▒­░⡷⠂ANDZISONE⠐⢾░▒▓██
 
 
 <p align="center">
