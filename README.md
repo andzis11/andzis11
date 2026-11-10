@@ -1,8 +1,10 @@
 <div align="center">
 
 # Andzisone
-### **Security Researcher · Systems & Protocol Security · Algorithmic Engineering**
 
+<a href="https://github.com/andzis11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Security+Researcher+(GHSA+%2F+CVD);AWS+Nitro+Enclaves+%26+Memory+Safety;Cryptographic+Protocol+%26+Binding+Audits;Solana+DLMM+%26+MEV+Arbitrage+Systems" alt="Typing SVG" />
+</a>
 <p>
   <a href="https://x.com/RianputraSk8"><img src="https://img.shields.io/badge/X-@RianputraSk8-black?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://www.flowmusic.app/andzisone"><img src="https://img.shields.io/badge/Flow%20Music-andzisone-E62117?style=flat-square&logo=youtubemusic&logoColor=white" alt="Flow Music" /></a>
