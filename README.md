@@ -5,6 +5,7 @@
 
 <p>
   <a href="https://x.com/RianputraSk8"><img src="https://img.shields.io/badge/X-@RianputraSk8-black?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.flowmusic.app/andzisone"><img src="https://img.shields.io/badge/Flow%20Music-andzisone-E62117?style=flat-square&logo=youtubemusic&logoColor=white" alt="Flow Music" /></a>
   <a href="#-security-research"><img src="https://img.shields.io/badge/Research-GHSA%20Verified-238636?style=flat-square&logo=github&logoColor=white" alt="GHSA" /></a>
   <a href="#-responsible-disclosure--contact"><img src="https://img.shields.io/badge/Policy-Coordinated%20Disclosure-0969da?style=flat-square&logo=securityscorecard&logoColor=white" alt="CVD Policy" /></a>
 </p>
@@ -87,11 +88,10 @@ Verified disclosures with official vendor credit and GitHub Security Advisories 
 ---
 
 ## 🤝 Responsible Disclosure & Contact
-
 - **Ethics**: All vulnerability research is conducted strictly under **Coordinated Vulnerability Disclosure (CVD)** guidelines.
 - **Direct Message**: [X / @RianputraSk8](https://x.com/RianputraSk8)
+- **Music & Playlists**: [Flow Music / andzisone](https://www.flowmusic.app/andzisone)
 - **Security Inquiries**: Available for coordinated vulnerability disclosure and technical verification via repository security advisories.
-
 <!---
 andzis11/andzis11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
